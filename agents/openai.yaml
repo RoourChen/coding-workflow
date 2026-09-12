@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Workflow"
+  short_description: "Lightweight scoped coding with tests and review"
+  default_prompt: "Use $coding-workflow to implement this coding task with a scoped brief, fresh verification, and proportionate review."
